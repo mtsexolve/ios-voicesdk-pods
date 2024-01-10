@@ -1,2 +1,2 @@
 # ios-voicesdk-pods
-ios-mobile-sdk-pods
+ios-voicesdk-pods
